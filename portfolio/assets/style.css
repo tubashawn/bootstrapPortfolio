@@ -1,0 +1,23 @@
+.top {
+    font-size: 50px;
+    color: #678943
+}
+
+#next{
+    font-size: 30px;
+    color: #444444;
+}
+
+.space {
+    margin-left: 5%;
+}
+
+/* .resize {
+    height: 50%;
+    width: 50%;
+} */
+
+.resize {
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+  }
