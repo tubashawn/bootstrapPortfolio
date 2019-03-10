@@ -21,3 +21,12 @@
     -webkit-transform: scaleY(-1);
     transform: scaleY(-1);
   }
+
+.styleMain {
+    background-color: #777777
+}
+
+.customNav {
+margin-bottom: 3%;
+
+}
